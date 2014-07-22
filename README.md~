@@ -7,8 +7,8 @@ SilverStripe-Admin-Toolbar
 <li>Switching between frontend and backend</li>
 <li>Developer tools: build, flush, show queries and show template and debug</li>
 <li>Quicklinks: SilverStripe-API, -Docs, -Forums and Add-ons</li>
-<li>Search-Form for SilverStripe Sites, Google, GitHub and Stackoverflow</li>
-<li>SilverStripe AdmingToolbar is scaleable, that means that you can adjust every developers‘ tool, quicklink and search engine in the Admin toolbar.</li>
+<li>Search-Form for SilverStripe Sites, Google,GitHub and Stackoverflow</li>
+<li>SilverStripe AdmingToolBar is scaleable, that means that you can adjust every developers‘ tool, quicklink and search engine in the Admin Toolbar.</li>
 </ul>
 
 <h2>Requirements:</h2>
